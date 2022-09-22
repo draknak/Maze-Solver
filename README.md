@@ -13,3 +13,8 @@ The following are the different types of chars that create the maze and path tak
 @ = current pos
 
 & = backtrack
+
+
+---
+
+Planning to add ability to load a maze from text file and also some other search algorithms (breadth, depth, etc)
